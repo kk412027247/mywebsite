@@ -141,9 +141,9 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="768" />
+    <option name="x" value="366" />
     <option name="y" value="24" />
-    <option name="width" value="912" />
+    <option name="width" value="1314" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
