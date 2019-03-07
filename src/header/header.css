@@ -1,0 +1,25 @@
+#header{
+    display: flex;
+    justify-content: center;
+    background-color: #222429;
+}
+
+.header-box{
+    display:flex;
+    align-items: center;
+    height: 55px;
+    width: 1263px;
+}
+
+.header-left,.header-right{
+    display: flex;
+    flex:1;
+}
+
+.header-right{
+    justify-content: flex-end;
+}
+
+.header-icon{
+    margin-left:19px;
+}
