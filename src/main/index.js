@@ -1,10 +1,10 @@
 import React from 'react';
-import Banner from '../banner';
+
+import './main.css';
 
 const Main = () => (
-  <main>
-    <Banner/>
-    main
+  <main id={'main'}>
+    Main
   </main>
 );
 

@@ -3,7 +3,7 @@ import './header.css';
 
 const Header = () =>(
   <div id={'header'}>
-    <div className={'header-box'}>
+
       <div className={'header-left'}>
         <img src={require('./images/menu.png')} alt=""/>
       </div>
@@ -17,7 +17,7 @@ const Header = () =>(
         <img src={require('./images/facebook.png')} className={'header-icon'} alt=""/>
         <img src={require('./images/search.png')} className={'header-icon'} alt=""/>
       </div>
-    </div>
+
 
   </div>
 );

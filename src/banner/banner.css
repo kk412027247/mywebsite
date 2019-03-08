@@ -1,12 +1,11 @@
 #banner{
     height:290px;
-    background-color: #222429;
     width: 100%;
+    margin-bottom:200px;
 }
 
 .banner-image{
     display:flex;
-
     width:1263px;
     height: 479px;
     margin:0 auto;
