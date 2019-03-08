@@ -12,7 +12,7 @@ const Banner = () => (
       </div>
 
       <div className={'banner-right'}>
-        <div>
+        <div className={'banner-indicator'}>
           <img src={require('./images/left.png')} alt=""/>
           <span className={'indicator-text'}>Featured Article</span>
           <img src={require('./images/right.png')} alt=""/>
